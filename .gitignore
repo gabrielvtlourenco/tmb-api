@@ -1,0 +1,83 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User Secrets
+secrets.json
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Oo]ut/
+[Aa]pp[Dd]ata/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+nuget.exe
+~$*
+packages/*/
+project.lock.json
+project.fragment.lock.json
+
+# Rider
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directory
+.vscode/
+
+# VS directory
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Relatorios do WinForm
+*.htm
+
+# Windows shortcuts
+*.lnk
+
+# DotNet SDK
+.dotnet/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
