@@ -7,8 +7,8 @@ using Tmb.Domain.Entidades;
 
 namespace Tmb.Domain.Interfaces
 {
-    public interface ITmbCalculadora
+    public interface ICalculadoraImc
     {
-        double Calcular(Usuario usuario);
+        double CalcularImc(Usuario usuario);
     }
 }
