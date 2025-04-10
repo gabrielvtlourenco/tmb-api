@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Tmb.Application.DTOs
 {
-    internal class TmbResponseDto
+    public class TmbResponseDto
     {
+        public int Tmb { get; set; }
     }
 }

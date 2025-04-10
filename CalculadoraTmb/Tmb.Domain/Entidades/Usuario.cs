@@ -12,5 +12,6 @@ namespace Tmb.Domain.Entidades
         public double Peso { get; set; }
         public double Altura { get; set; }
         public string Sexo { get; set; }
+        public int NivelAtividade { get; set; }
     }
 }

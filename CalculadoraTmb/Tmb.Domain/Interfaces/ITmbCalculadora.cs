@@ -9,6 +9,6 @@ namespace Tmb.Domain.Interfaces
 {
     public interface ITmbCalculadora
     {
-        double Calcular(Usuario usuario);
+        int Calcular(Usuario usuario);
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.sourcelink.json
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\bin\Debug\net8.0\Tmb.Domain.deps.json
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\bin\Debug\net8.0\Tmb.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\bin\Debug\net8.0\Tmb.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\refint\Tmb.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\Tmb.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Domain\obj\Debug\net8.0\ref\Tmb.Domain.dll

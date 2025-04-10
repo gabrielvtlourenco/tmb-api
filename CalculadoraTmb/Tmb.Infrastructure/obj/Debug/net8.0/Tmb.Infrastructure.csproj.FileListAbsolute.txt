@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.sourcelink.json
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\bin\Debug\net8.0\Tmb.Infrastructure.deps.json
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\bin\Debug\net8.0\Tmb.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\bin\Debug\net8.0\Tmb.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\bin\Debug\net8.0\Tmb.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\bin\Debug\net8.0\Tmb.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infr.CAC8395C.Up2Date
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\refint\Tmb.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\Tmb.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Projetos pessoais\tmb-api\CalculadoraTmb\Tmb.Infrastructure\obj\Debug\net8.0\ref\Tmb.Infrastructure.dll

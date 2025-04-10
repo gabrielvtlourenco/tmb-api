@@ -17,14 +17,15 @@ namespace Tmb.Application.Services
             _calculadora = calculadora;
         }
 
-        public double CalcularTmb(int idade, double peso, double altura, string sexo)
+        public int CalcularTmb(int idade, double peso, double altura, string sexo, int nivelAtividade)
         {
             var usuario = new Usuario
             {
                 Idade = idade,
                 Peso = peso,
                 Altura = altura,
-                Sexo = sexo
+                Sexo = sexo,
+                NivelAtividade = nivelAtividade
             };
 
             return _calculadora.Calcular(usuario);

@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\controllers\\nivelatividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\controllers\\nivelatividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\configure\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\configure\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\configure\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\configure\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\controllers\\tmbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\controllers\\tmbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\dtos\\tmbrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\dtos\\tmbrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.api\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A2FB96-2773-4DAA-8E26-B78694972B84}|Tmb.Api\\Tmb.Api.csproj|solutionrelative:tmb.api\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\services\\tmbcalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\services\\tmbcalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310CA509-9412-4DFB-8B23-0F691DAEC36D}|Tmb.Infrastructure\\Tmb.Infrastructure.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.infrastructure\\services\\tmbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310CA509-9412-4DFB-8B23-0F691DAEC36D}|Tmb.Infrastructure\\Tmb.Infrastructure.csproj|solutionrelative:tmb.infrastructure\\services\\tmbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\staticdata\\niveldeatividadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\staticdata\\niveldeatividadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\services\\calculadoraimcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\services\\calculadoraimcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310CA509-9412-4DFB-8B23-0F691DAEC36D}|Tmb.Infrastructure\\Tmb.Infrastructure.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.infrastructure\\services\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310CA509-9412-4DFB-8B23-0F691DAEC36D}|Tmb.Infrastructure\\Tmb.Infrastructure.csproj|solutionrelative:tmb.infrastructure\\services\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\interfaces\\icalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\interfaces\\icalculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\dtos\\imcresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\dtos\\imcresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\dtos\\tmbresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\dtos\\tmbresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\dtos\\imcrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\dtos\\imcrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\entidades\\niveldeatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\entidades\\niveldeatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\interfaces\\itmbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\interfaces\\itmbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.application\\tmb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F71FC977-CD63-4297-B2C8-4B2CB3D7A9E8}|Tmb.Application\\Tmb.Application.csproj|solutionrelative:tmb.application\\tmb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|c:\\users\\gabriel\\desktop\\projetos pessoais\\tmb-api\\calculadoratmb\\tmb.domain\\tmb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84F85EDF-3BAC-40BE-9590-01FA3AC114A1}|Tmb.Domain\\Tmb.Domain.csproj|solutionrelative:tmb.domain\\tmb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TmbController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\TmbController.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Controllers\\TmbController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\TmbController.cs",
+              "RelativeToolTip": "Tmb.Api\\Controllers\\TmbController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:39:13.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Configure\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Configure\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Configure\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "Tmb.Api\\Configure\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:27:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Program.cs",
+              "RelativeToolTip": "Tmb.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:03:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NivelAtividadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\NivelAtividadeController.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Controllers\\NivelAtividadeController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\NivelAtividadeController.cs",
+              "RelativeToolTip": "Tmb.Api\\Controllers\\NivelAtividadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:37:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Configure\\CorsConfiguration.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Configure\\CorsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Configure\\CorsConfiguration.cs",
+              "RelativeToolTip": "Tmb.Api\\Configure\\CorsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:18:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICalculadoraImc.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Interfaces\\ICalculadoraImc.cs",
+              "RelativeDocumentMoniker": "Tmb.Domain\\Interfaces\\ICalculadoraImc.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Interfaces\\ICalculadoraImc.cs",
+              "RelativeToolTip": "Tmb.Domain\\Interfaces\\ICalculadoraImc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:58:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TmbResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\TmbResponseDto.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\DTOs\\TmbResponseDto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\TmbResponseDto.cs",
+              "RelativeToolTip": "Tmb.Application\\DTOs\\TmbResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:50:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TmbCalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Services\\TmbCalculadoraService.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\Services\\TmbCalculadoraService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Services\\TmbCalculadoraService.cs",
+              "RelativeToolTip": "Tmb.Application\\Services\\TmbCalculadoraService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:49:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImcController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\ImcController.cs",
+              "RelativeDocumentMoniker": "Tmb.Api\\Controllers\\ImcController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Api\\Controllers\\ImcController.cs",
+              "RelativeToolTip": "Tmb.Api\\Controllers\\ImcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:44:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NivelDeAtividadeData.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\StaticData\\NivelDeAtividadeData.cs",
+              "RelativeDocumentMoniker": "Tmb.Domain\\StaticData\\NivelDeAtividadeData.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\StaticData\\NivelDeAtividadeData.cs",
+              "RelativeToolTip": "Tmb.Domain\\StaticData\\NivelDeAtividadeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:01:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TmbRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\TmbRequestDto.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\DTOs\\TmbRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\TmbRequestDto.cs",
+              "RelativeToolTip": "Tmb.Application\\DTOs\\TmbRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:50:14.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculadoraImc.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Infrastructure\\Services\\CalculadoraImc.cs",
+              "RelativeDocumentMoniker": "Tmb.Infrastructure\\Services\\CalculadoraImc.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Infrastructure\\Services\\CalculadoraImc.cs",
+              "RelativeToolTip": "Tmb.Infrastructure\\Services\\CalculadoraImc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:59:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TmbCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Infrastructure\\Services\\TmbCalculadora.cs",
+              "RelativeDocumentMoniker": "Tmb.Infrastructure\\Services\\TmbCalculadora.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Infrastructure\\Services\\TmbCalculadora.cs",
+              "RelativeToolTip": "Tmb.Infrastructure\\Services\\TmbCalculadora.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:51:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImcResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\ImcResponseDto.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\DTOs\\ImcResponseDto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\ImcResponseDto.cs",
+              "RelativeToolTip": "Tmb.Application\\DTOs\\ImcResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:00:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculadoraImcService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Services\\CalculadoraImcService.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\Services\\CalculadoraImcService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Services\\CalculadoraImcService.cs",
+              "RelativeToolTip": "Tmb.Application\\Services\\CalculadoraImcService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:49:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImcRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\ImcRequestDto.cs",
+              "RelativeDocumentMoniker": "Tmb.Application\\DTOs\\ImcRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\DTOs\\ImcRequestDto.cs",
+              "RelativeToolTip": "Tmb.Application\\DTOs\\ImcRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:58:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Tmb.Domain\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Tmb.Domain\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:47:10.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITmbCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Interfaces\\ITmbCalculadora.cs",
+              "RelativeDocumentMoniker": "Tmb.Domain\\Interfaces\\ITmbCalculadora.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Interfaces\\ITmbCalculadora.cs",
+              "RelativeToolTip": "Tmb.Domain\\Interfaces\\ITmbCalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:48:17.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NivelDeAtividade.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Entidades\\NivelDeAtividade.cs",
+              "RelativeDocumentMoniker": "Tmb.Domain\\Entidades\\NivelDeAtividade.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Entidades\\NivelDeAtividade.cs",
+              "RelativeToolTip": "Tmb.Domain\\Entidades\\NivelDeAtividade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:00:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tmb.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Tmb.Application.csproj",
+              "RelativeDocumentMoniker": "Tmb.Application\\Tmb.Application.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Application\\Tmb.Application.csproj",
+              "RelativeToolTip": "Tmb.Application\\Tmb.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T20:49:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tmb.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Tmb.Domain.csproj",
+              "RelativeDocumentMoniker": "Tmb.Domain\\Tmb.Domain.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Projetos pessoais\\tmb-api\\CalculadoraTmb\\Tmb.Domain\\Tmb.Domain.csproj",
+              "RelativeToolTip": "Tmb.Domain\\Tmb.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T20:46:31.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

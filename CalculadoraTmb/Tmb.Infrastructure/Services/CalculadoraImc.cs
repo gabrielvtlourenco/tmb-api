@@ -13,7 +13,8 @@ namespace Tmb.Infrastructure.Services
         public double CalcularImc(Usuario usuario)
         {
             double imc;
-            imc = usuario.Peso / (usuario.Altura * usuario.Altura);
+            double alturaM = usuario.Altura / 100.0;
+            imc = usuario.Peso / (alturaM * alturaM);
             return imc;
         }
     }
