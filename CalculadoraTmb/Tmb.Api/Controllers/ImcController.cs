@@ -24,7 +24,7 @@ namespace Tmb.Api.Controllers
             }
 
             var resultado = _calculadoraImcService.CalcularImc(dto.Peso, dto.Altura);
-            return Ok(new ImcResponseDto { Imc = resultado });
+            return Ok(new ImcResponseDto { Imc = Math.Round(resultado, 2) });
         }
     }
 }
